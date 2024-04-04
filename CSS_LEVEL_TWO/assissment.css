@@ -1,0 +1,31 @@
+td{
+  background-color: black;
+  height: 300px;
+  width: 150px;
+}
+.art{
+  margin: auto;
+}
+h1{
+  text-align: center;
+}
+#one{
+  background-color: #DAD208;
+}
+#two{
+  background-color: #325FA2;
+}
+#three{
+  background-color: #143642;
+}
+#four{
+  background-color: #EC9A29;
+}
+#five{
+  background-color: #A8201A;
+}
+#DAD208
+#325FA2
+#143642
+#EC9A29
+#A8201A

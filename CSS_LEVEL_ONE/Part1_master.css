@@ -1,0 +1,57 @@
+/*some text*/
+/*selected tag{
+  property: value;
+}*/
+.firstDiv{
+  color: yellow;
+}
+.secondDiv{
+  color:green;
+}
+#singledout{
+  color: green;
+  text-decoration: line-through;
+}
+h3+ul{
+  border: 4px dotted purple;
+}
+li a{
+  color:red;
+}
+li a[href="www.google.com"]{
+  color:blue;
+  border: 5px solid orange;
+}
+
+body{
+  /*background-color: gray;*/
+  background: url(https://cdn.zekkei-japan.jp/images/articles/aff9a4933fbb1a33c994bab2300433eb.jpg);
+  background-repeat : no-repeat;
+}
+div{
+  /*background: blue;*/
+  border-color: blue;
+  /*border-width: thick;*/
+  border-width: 2px;
+  border-style: dotted;
+}
+span{
+  background: red;
+  color: black;
+}
+
+h1{
+  color: blue;
+}
+
+li{
+  color: rgb(8,85,1);
+}
+/*
+p{
+  color: #862d59;
+}
+*/
+h4{
+  color:rgba(255, 97, 0, 0.5);
+}
